@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492578280905",
+    "project_id": "notify-eee93",
+    "storage_bucket": "notify-eee93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492578280905:android:ed1b6b46f80c9d4c53c418",
+        "android_client_info": {
+          "package_name": "com.yursa.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALiCjvD9QJnDE3lUW8z0t0ngK6lCXHtFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
